@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Mishra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student;DSA+Enthusiast;Web+Developer;Exploring+AI%2FML;Building+Projects+%26+Solving+Problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student;DSA+Enthusiast;Exploring+AI%2FML;Frontend+Developer;Building+Projects+%26+Solving+Problems" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
 ### ⚙️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
 </p>
 
 ---
-
+<!---
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -118,31 +118,22 @@
 </p>
 
 ---
+-->
+
 
 ## 🧠 DSA Journey
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/DSA-500%2B%20Problems-0e75b6?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-700%2B%20Problems-0e75b6?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LeetCode-200%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-250%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GeeksforGeeks-200%2B-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-250%2B-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CodeChef-100%2B-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-150%2B-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
 
 </p>
-
----
-
-## 📚 DSA Statistics
-
-| Platform | Problems Solved |
-|----------|----------------:|
-| 🟠 LeetCode | 200+ |
-| 🟢 GeeksforGeeks | 200+ |
-| 🔵 CodeChef | 100+ |
-| 🚀 Total | **500+** |
 
 ---
 
@@ -186,12 +177,4 @@ A modern luxury men's fashion website with product collections, categories, enqu
 
 An environmental education platform concept focused on gamification, eco-points and sustainability awareness.
 
----
-
-## 🎯 My Goals
-
-```text
-DSA & Problem Solving     ███████████████░░░  80%
-Frontend Development      ████████████░░░░░░  65%
-AI / Machine Learning     ████████░░░░░░░░░░  45%
-System Design             ██████░░░░░░░░░░░░  35%
+--
