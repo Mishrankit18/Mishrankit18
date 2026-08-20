@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ankit Mishra</h1>
 
-<h3 align="center">
-  B.Tech CSE Student | DSA Enthusiast | Web Developer | Exploring AI/ML
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student;DSA+Enthusiast;Web+Developer;Exploring+AI%2FML;Building+Projects+%26+Solving+Problems" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Mishrankit18">
-    <img src="https://komarev.com/ghpvc/?username=Mishrankit18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Mishrankit18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
+  <img src="https://img.shields.io/github/followers/Mishrankit18?label=Followers&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
@@ -53,11 +54,27 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Overview
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mishrankit18&theme=tokyo-night&hide_border=true&area=true&custom_title=Ankit%20Mishra's%20Contribution%20Graph"
+    width="95%"
+  />
+</p>
+
+---
+
+## 📅 GitHub Contribution Calendar
+
+<p align="center">
+  <img
+    src="https://github-contribution-graph.ez4o.com/?username=Mishrankit18&last_n_days=365"
+    alt="GitHub Contribution Calendar"
+    width="95%"
+  />
 </p>
 
 ---
@@ -65,7 +82,28 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=Mishrankit18&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF"
+    width="90%"
+  />
+</p>
+
+---
+
+## 💻 Top Languages
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishrankit18&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Top%20Languages%20by%20Repository"
+  height="220"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishrankit18&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Top%20Languages%20by%20Code"
+  height="220"
+/>
+
 </p>
 
 ---
@@ -73,8 +111,38 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Mishrankit18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"
+    width="95%"
+  />
 </p>
+
+---
+
+## 🧠 DSA Journey
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DSA-500%2B%20Problems-0e75b6?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode-200%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-200%2B-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CodeChef-100%2B-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+</p>
+
+---
+
+## 📚 DSA Statistics
+
+| Platform | Problems Solved |
+|----------|----------------:|
+| 🟠 LeetCode | 200+ |
+| 🟢 GeeksforGeeks | 200+ |
+| 🔵 CodeChef | 100+ |
+| 🚀 Total | **500+** |
 
 ---
 
@@ -91,33 +159,32 @@
 ## 🚀 Featured Projects
 
 ### 🎵 Music Player
+
 A web-based music player built to practice frontend development and JavaScript.
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/music_player)
-
-### 🤖 WhatsApp Automation
-An automation system using Python and Pandas to process contact/order data and automate WhatsApp messaging workflows.
-
-### 👔 ID Fashion
-A modern luxury men's fashion website with product collections, categories, enquiry forms, Firebase integration and an admin dashboard.
-
-### 🌱 EcoZ
-An environmental education platform concept focused on gamification, eco-points and sustainability awareness.
+🔗 [View Project](https://github.com/Mishrankit18/music_player)
 
 ---
 
-## 🧩 DSA Journey
+### 🤖 WhatsApp Automation
 
-<p align="center">
+An automation system using Python and Pandas to process contact/order data and automate WhatsApp messaging workflows.
 
-| Platform | Progress |
-|----------|----------|
-| 🟠 LeetCode | 200+ Problems |
-| 🟢 GeeksforGeeks | 200+ Problems |
-| 🔵 CodeChef | 100+ Problems |
-| **Total** | **500+ Problems** |
+**Tech:** Python • Pandas • PyAutoGUI • WhatsApp Web
 
-</p>
+---
+
+### 👔 ID Fashion
+
+A modern luxury men's fashion website with product collections, categories, enquiry forms, Firebase integration and an admin dashboard.
+
+**Tech:** HTML • CSS • JavaScript • Firebase
+
+---
+
+### 🌱 EcoZ
+
+An environmental education platform concept focused on gamification, eco-points and sustainability awareness.
 
 ---
 
