@@ -71,8 +71,8 @@
 
 <p align="center">
   <img
-    src="https://github-contribution-graph.ez4o.com/?username=Mishrankit18&last_n_days=365"
-    alt="GitHub Contribution Calendar"
+    src="https://ghchart.rshah.org/39d353/Mishrankit18"
+    alt="Ankit Mishra's GitHub Contribution Calendar"
     width="95%"
   />
 </p>
@@ -82,12 +82,12 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=Mishrankit18&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF"
+  <img
+    src="https://streak-stats.demolab.com/?user=Mishrankit18&type=svg"
+    alt="Ankit Mishra's GitHub Streak"
     width="90%"
   />
 </p>
-
 ---
 
 ## 💻 Top Languages
